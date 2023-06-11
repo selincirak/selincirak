@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img src="https://github.com/KahlerYasla/KahlerYasla/blob/main/name.svg" alt="" />
+  <img src="https://github.com/selincirak/selincirak/blob/main/name.svg" alt="" />
 </h1>
